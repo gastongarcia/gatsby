@@ -1,3 +1,15 @@
+- title: Kangu
+  main_url: "https://kangu.cr/"
+  url: "https://kangu.cr/"
+  description: >
+    Local pharmacy delivery service from Costa Rica
+  featured: true
+  categories:
+    - Healthcare
+    - CMS:DatoCMS
+    - Featured
+  built_by: Gastón García
+  built_by_url: "https://www.gaston-garcia.com"
 - title: ReactJS
   main_url: "https://reactjs.org/"
   url: "https://reactjs.org/"
